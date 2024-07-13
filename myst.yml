@@ -10,7 +10,7 @@ project:
       - name: Rowan Cockett
         affiliation: Executable Books; Curvenote
         orcid: 0000-0002-7859-8394
-  github: https://github.com/executablebooks/jupyterlab-myst-quickstart
+  github: https://github.com/dariomalchiodi/mystest
   jupyter:
       lite: true
   # bibliography: []
