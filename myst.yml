@@ -11,9 +11,7 @@ project:
         affiliation: Executable Books; Curvenote
         orcid: 0000-0002-7859-8394
   github: https://github.com/dariomalchiodi/mystest
-  jupyter:
-      github: https://github.com/dariomalchiodi/mystest
-      jupyter: 'binder'
+  jupyter: 'binder'
       #lite: true
   # bibliography: []
 site:
