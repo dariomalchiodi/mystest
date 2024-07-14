@@ -12,7 +12,9 @@ project:
         orcid: 0000-0002-7859-8394
   github: https://github.com/dariomalchiodi/mystest
   jupyter:
-      lite: true
+      github: https://github.com/dariomalchiodi/mystest
+      jupyter: 'binder'
+      #lite: true
   # bibliography: []
 site:
   template: book-theme
