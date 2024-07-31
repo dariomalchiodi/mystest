@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora:wght@400;700&display=swap');
+
+:root {
+  --pst-color-background: #FFFFFF; /*255, 255, 255; */
+  --pst-color-primary: #01579B;
+  --pst-color-secondary: #0071BC !important;
+  --pst-color-complementary: #208050;
+  --pst-color-evident: red;
+  --pst-font-text: 'Lora', serif;
+  --pst-font-title: 'Lato', sans-serif;
+  --pst-font-code: 'Fira Code', monospace;
+
+  /*
+  --pst-font-text: 'Bitter', serif;
+  --pst-font-title: 'Inter', serif;
+  */
+}
+
