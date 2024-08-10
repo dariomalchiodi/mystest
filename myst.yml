@@ -11,7 +11,9 @@ project:
         affiliation: Executable Books; Curvenote
         orcid: 0000-0002-7859-8394
   github: https://github.com/dariomalchiodi/mystest
-  jupyter: true
+  jupyter:
+      lite: true
+ 
   # bibliography: []
 site:
   template: book-theme
